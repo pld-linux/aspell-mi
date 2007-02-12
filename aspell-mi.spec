@@ -1,5 +1,5 @@
 Summary:	Maori dictionary for aspell
-Summary(pl):	S≥ownik maoryjski dla aspella
+Summary(pl.UTF-8):   S≈Çownik maoryjski dla aspella
 Name:		aspell-mi
 Version:	0.50
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Maori dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik maoryjski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik maoryjski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
