@@ -1,5 +1,5 @@
 Summary:	Maori dictionary for aspell
-Summary(pl.UTF-8):   Słownik maoryjski dla aspella
+Summary(pl.UTF-8):	Słownik maoryjski dla aspella
 Name:		aspell-mi
 Version:	0.50
 %define	subv	0
